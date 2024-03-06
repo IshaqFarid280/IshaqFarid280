@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code><a href="www.linkedin.com/in/ishaq-farid" title="LinkedIn Profile"><img width="22" src="assets/linedkin.png"> LinkedIn</a></code>
-  <code><a href="https://www.fiverr.com/s/jDKrzZ" title="Fiverr"><img width="22" src="assets/fiverr.png"> Instagram</a></code>
+  <code><a href="https://www.fiverr.com/s/jDKrzZ" title="Fiverr"><img width="22" src="assets/fiverer.webp"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
