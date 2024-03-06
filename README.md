@@ -7,8 +7,8 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="www.linkedin.com/in/ishaq-farid" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.fiverr.com/s/jDKrzZ" title="Fiverr"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="www.linkedin.com/in/ishaq-farid" title="LinkedIn Profile"><img width="22" src="assets/linedkin.png"> LinkedIn</a></code>
+  <code><a href="https://www.fiverr.com/s/jDKrzZ" title="Fiverr"><img width="22" src="assets/fiverr.png"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
@@ -32,23 +32,22 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Dart" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="Kotlin" height="25" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
-  <code><img title="Node.js" height="25" src="images/vscode.png"></code>
-  <code><img title="Laravel" height="25" src="images/vscode.png"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Android Studio" height="25" src="images/vscode.png"></code>
-  <code><img title="Xampp" height="25" src="images/vscode.png"></code>
-  <code><img title="Docker" height="25" src="images/vscode.png"></code>
-  <code><img title="Problem Solving" height="25" src="images/vscode.png"></code>
+  <code><img title="Dart" height="25" src="assets/dart.png"></code>
+  <code><img title="Git" height="25" src="assets/git.png"></code>
+  <code><img title="Java" height="25" src="assets/java.png"></code>
+  <code><img title="Kotlin" height="25" src="assets/Kotlin.png"></code>
+  <code><img title="JSON" height="25" src="assets/json.png"></code>
+  <code><img title="Android" height="25" src="assets/android.png"></code>
+  <code><img title="Node.js" height="25" src="assets/nodejs.jfif"></code>
+  <code><img title="Laravel" height="25" src="assets/laravel.png"></code>
+  <code><img title="GitHub" height="25" src="assets/github.webp"></code>
+  <code><img title="MySQL" height="25" src="assets/mysql.png"></code>
+  <code><img title="npm" height="25" src="assets/npm.png"></code>
+  <code><img title="PHP" height="25" src="assets/php.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="assets/visual studio.svg"></code>
+  <code><img title="Android Studio" height="25" src="assets/android sstudio.png"></code>
+  <code><img title="Xampp" height="25" src="assets/xampp.svg"></code>
+  <code><img title="Docker" height="25" src="assets/docker.png"></code>
 </p>
 <hr>
 
