@@ -23,8 +23,7 @@
   <br>
   📚 I’m currently learning how to build E-Commerce apps with Serverpod(Dart as a Backend)
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
+ 
   📫 How to reach me: <a href="mailto: ishaqfarid280@gmail.com">ishaqfarid280@gmail.com</a>
 </p>
 
