@@ -12,7 +12,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Ishaq Farid, Mobile App Developer and Social Media Enthusiast from Pakistan
+  Hi, I'm Ishaq Farid, Mobile App Developer and Laravel Developer from Pakistan
   <br>
   <br>
   🔬 I'm currently running an Software Company named "FalconByte solutions"
